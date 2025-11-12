@@ -4,6 +4,7 @@ compatibility_date = "2023-01-01"
 
 [vars]
 BUCKET_NAME = "webdav"
+USERNAME = "zen.shawn"
 
 [[r2_buckets]]
 binding = "BUCKET"
