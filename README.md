@@ -20,9 +20,9 @@
 
 点击下面的按钮，一键将此项目部署到您的Cloudflare Workers账户：
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/aigem/CFr2-webdav)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xiaodaxia-2008/CFr2-webdav)
 
-注需要有Cloudflare账户才能使用此功能。如果您还没有账户，可以在[Cloudflare官www.cloudflare.com)注册。
+注需要有Cloudflare账户才能使用此功能。如果您还没有账户，可以在[Cloudflare官网](www.cloudflare.com)注册。
 
 ## 手动部署步骤 [Githut Actions]
 
